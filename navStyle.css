@@ -34,3 +34,21 @@ nav ul li:hover {
         /* text-align: center; */
     }
 }
+
+.container {
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    height: 80px;
+    width: 80px;
+    border: 2px solid orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
